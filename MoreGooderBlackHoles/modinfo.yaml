@@ -1,0 +1,10 @@
+entrypoint: 
+    dll: main.dll
+    className: BiggerBlackHoles.BiggerBlackHoles
+attributes:
+    id: com.Melon.BiggerBlackHoles
+    name: BiggerBlackHoles
+    description: Bigger Black Holes mod - Ported from bepinex
+    version: "1.0"
+    authors: 
+        - Melon
