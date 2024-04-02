@@ -7,3 +7,4 @@ info goes here!
 ## MOD LIST
 
 ## MODDING SERVER
+https://boplmods.net/discord
